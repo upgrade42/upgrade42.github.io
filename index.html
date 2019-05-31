@@ -1,0 +1,57 @@
+---
+title: UPGRADE
+---
+
+<section class="hero diagonal">
+	<div class="container">
+		<h2 class="editable">
+			UPGRADE
+		</h2>
+		<p class="subtext editable">
+			This website is dedicated to UPGRADE- Increasing Capacity of Participatory Youth Work, which unites organizations from Sweden, Estonia, Poland, Ukraine, and Georgia.
+		</p>
+		<p><a class="button alt" href="{{ site.baseurl }}/contact/">Contact Us</a></p>
+	</div>
+</section>
+
+<section class="diagonal patterned">
+	<div class="container halves">
+		<div>
+			<h3 class="editable">
+				<strong>Stakeholders</strong>
+			</h3>
+			<p class="editable">
+				The project aims to increase the operational capacity and participatory approaches of Youth Centers in partner countries through creating youth work structures, developing professional competencies of youth workers, establishing /exchanging the means of best practices.
+			</p>
+			<p class="editable">
+				<a href="/portfolio/">View Full Portfolio &rarr;</a>
+			</p>
+		</div>
+		<div>
+			<ul class="image-grid">
+				{% for client in site.clients limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" /></a></li>
+				{% endfor %}
+			</ul>
+		</div>
+	</div>
+</section>
+
+<section class="diagonal alternate">
+	<div class="container halves">
+		<div>
+			<ul class="image-list">
+				<li><img src="{{ site.baseurl }}/images/cloudcannon-logo-blue.svg" width="250" style="margin-bottom: 40px;" /></li>
+				<li><img src="{{ site.baseurl }}/images/jekyll-logo-black-red-transparent.png" width="300" /></li>
+			</ul>
+		</div>
+		<div>
+			<h3 class="editable">
+				<strong> Main Actions</strong>
+			</h3>
+			<p class="editable">
+				Kick Off meeting 9-11MARCH, 2019Tbilisi, Georgia<br />Training Course, 5-12 MAY, &nbsp;2019 Tbilisi, Georgia<br />Fellowship in Estonia 24 MAY-1 JUNE, 2019 Tallinn, Estonia<br />Fellowship in Sweden 24 MAY-1 JUNE, 2019 Karlstad, Sweden<br />Fellowship in Poland 4 JUNE- 12 JUNE, 2019 Poland<br />Local Meetings of Youth Centres and Youth Organizations 12 JUNE -27 JUNE, 2019<br />Training Course in 26 JULY- 2 AUGUST 2019, Poland<br />Thematic Workshops AUGUST-SEPTEMBER, 2019<br />Mid-Term Evaluation Meeting &nbsp;1 SEPTEMBER-4 SEPTEMBER 2019, Tbilisi, Georgia<br />Youth Exchange 1 OCTOBER-10 OCTOBER, 2019 Tbilisi, Georgia<br />Youth Exchange 25 OCTOBER- 3 NOVEMBER, 2019 Kiev, Ukraine<br />Seminar 3 NOVEMBER-11 NOVEMBER, 2019 Tbilisi, Georgia<br />Conference 1 FEBRUARY- 4 FEBRUARY, 2019 Tbilisi, Georgia
+			</p>
+		</div>
+	</div>
+</section>
