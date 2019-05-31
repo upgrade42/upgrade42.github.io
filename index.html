@@ -29,8 +29,8 @@ title: UPGRADE
 		</div>
 		<div>
 			<ul class="image-grid">
-				{% for client in site.orgs limit: 4 %}
-					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" /></a></li>
+				{% for org in site.orgs limit: 4 %}
+					<li><a href="{{ site.baseurl }}{{ org.url }}"><img src="{% include relative-src.html src=org.image_path %}" /></a></li>
 				{% endfor %}
 			</ul>
 		</div>
