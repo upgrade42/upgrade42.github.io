@@ -1,12 +1,12 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: UPGRADE
+url: "https://projectupgrade.ge"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: 
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,9 +16,9 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: UPGRADE
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    - https://projectupgrade.ge
 
 timezone: Etc/UTC
 
@@ -87,7 +87,7 @@ defaults:
       layout: "default"
 
 # -----------
-# CloudCannon
+
 
 social_icons:
   - Facebook
