@@ -1,9 +1,7 @@
 links:
-- name: organizations
-  link: /organizations/
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
-- name: Contact
-  link: /contact/
+  - name: Organizations
+    link: /organizations/
+  - name: Blog
+    link: /blog/
+  - name: Contact
+    link: /contact/
