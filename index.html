@@ -24,12 +24,12 @@ title: UPGRADE
 				The project aims to increase the operational capacity and participatory approaches of Youth Centers in partner countries through creating youth work structures, developing professional competencies of youth workers, establishing /exchanging the means of best practices.
 			</p>
 			<p class="editable">
-				<a href="/portfolio/">View Full Portfolio &rarr;</a>
+				<a href="/organizations/">View Full organizations &rarr;</a>
 			</p>
 		</div>
 		<div>
 			<ul class="image-grid">
-				{% for client in site.clients limit: 4 %}
+				{% for client in site.orgs limit: 4 %}
 					<li><a href="{{ site.baseurl }}{{ client.url }}"><img src="{% include relative-src.html src=client.image_path %}" /></a></li>
 				{% endfor %}
 			</ul>

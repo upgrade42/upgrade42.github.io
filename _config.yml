@@ -25,7 +25,7 @@ timezone: Etc/UTC
 collections:
   staff_members:
     output: false
-  clients:
+  orgs:
     output: true
 
 paginate: 10
@@ -60,7 +60,7 @@ defaults:
           height: 2000
   - scope:
       path: ""
-      type: "clients"
+      type: "orgs"
     values:
       layout: "client"
       _options:

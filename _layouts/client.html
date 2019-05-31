@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-{% assign portfolio = site.pages | where: "path", "portfolio.html" | first %}
+{% assign organizations = site.pages | where: "path", "organizations.html" | first %}
 
 <section class="hero diagonal">
 	<div class="container">
-		{% if portfolio.heading %}
-		<h2><a href="{{ site.baseurl }}/portfolio/">{{ portfolio.heading }}</a> / {{ page.title | capitalize }}</h2>
+		{% if organizations.heading %}
+		<h2><a href="{{ site.baseurl }}/organizations/">{{ organizations.heading }}</a> / {{ page.title | capitalize }}</h2>
 		{% endif %}
 		{% if page.subtitle %}
 			<p class="subtext">{{ page.subtitle }}</p>
