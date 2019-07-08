@@ -1,6 +1,8 @@
 links:
   - name: Organizations
     link: /organizations/
+  - name: Main Actions
+    link: /mainactions
   - name: Blog
     link: /blog/
   - name: Contact
