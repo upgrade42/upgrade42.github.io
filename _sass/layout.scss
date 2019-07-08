@@ -238,10 +238,10 @@ section {
 }
 
 .patterned {
-	background: #222 url($pattern);
+	background: #fefefe url($pattern);
 
 	&,
 	p {
-		color: #fefefe;
+		color: #222;
 	}
 }
