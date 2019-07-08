@@ -1,0 +1,26 @@
+---
+title: Organizations
+heading: Partners
+subtitle:
+---
+
+<section class="diagonal patterned">
+	<div class="container">
+	    <p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_orgs/" class="btn"><strong>&#9998;</strong> Manage orgs</a></p>
+		<ul class="image-grid">
+			{% for org in site.orgs %}
+				<li>
+					<a href="{{ site.baseurl }}{{ org.url }}">
+						<img src="{% include relative-src.html src=org.image_path %}" alt="{{ person.name }}">
+						<div class="details">
+							<div class="name">{{ org.name }}</div>
+							<div class="position">{{ org.subtitle }}</div>
+						</div>
+					</a>
+				</li>
+			{% endfor %}
+			<li class="filler"></li>
+			<li class="filler"></li>
+		</ul>
+	</div>
+</section>
