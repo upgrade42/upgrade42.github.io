@@ -35,9 +35,10 @@ Furthermore, it involves several stakeholders: city hall representatives, youth 
 
 <section class="diagonal alternate">
 	<div class="container halves">
+	
 		<div>
 			<ul class="image-grid">
-				{% for org in site.orgs limit: 4 %}
+				{% for org in site.orgs limit: 7 %}
 					<li><a href="{{ site.baseurl }}{{ org.url }}"><img src="{% include relative-src.html src=org.image_path %}" /></a></li>
 				{% endfor %}
 			</ul>
