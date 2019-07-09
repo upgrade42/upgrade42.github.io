@@ -36,17 +36,6 @@ Furthermore, it involves several stakeholders: city hall representatives, youth 
 <section class="diagonal alternate">
 	<div class="container halves">
 		<div>
-			<h3 class="editable">
-				<strong>Stakeholders</strong>
-			</h3>
-			<p class="editable">
-				The project aims to increase the operational capacity and participatory approaches of Youth Centers in partner countries through creating youth work structures, developing professional competencies of youth workers, establishing /exchanging the means of best practices.
-			</p>
-			<p class="editable">
-				<a href="/organizations/">View all organizations &rarr;</a>
-			</p>
-		</div>
-		<div>
 			<ul class="image-grid">
 				{% for org in site.orgs limit: 4 %}
 					<li><a href="{{ site.baseurl }}{{ org.url }}"><img src="{% include relative-src.html src=org.image_path %}" /></a></li>
