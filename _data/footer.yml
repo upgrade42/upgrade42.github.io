@@ -14,3 +14,7 @@
       link:
       social_icon: Facebook
       new_window: true
+    - name: Instagram
+      link: 'https://www.instagram.com/upgradeka2project/'
+      social_icon: Instagram
+      new_window: true
