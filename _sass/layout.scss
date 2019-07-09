@@ -174,11 +174,11 @@ section {
 		line-height: 0;
 
 		@media #{$tablet} {
-			flex: 1 1 50%;
+			flex: 1 1 20%;
 		}
 
 		@media #{$desktop} {
-			flex: 1 1 30%;
+			flex: 1 1 20%;
 		}
 
 		img {
