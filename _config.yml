@@ -72,6 +72,15 @@ defaults:
           height: 2000
   - scope:
       path: ""
+      type: "actions"
+    values:
+      layout: "action"
+      _options:
+        image_path:
+          width: 2000
+          height: 2000
+  - scope:
+      path: ""
       type: "staff_members"
     values:
       _options:
