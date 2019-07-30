@@ -2,7 +2,7 @@
 name: Training Course in Tbilisi
 subtitle:
 external_url:
-image_path:
+image_path: /uploads/img-20190506-173505--noah--summerskin2.jpg
 ---
 
 **Training Course in Tbilisi**
