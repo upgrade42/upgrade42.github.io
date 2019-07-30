@@ -1,13 +1,9 @@
 ---
 name: Training In Tbilisi
-subtitle:
+subtitle: Training In Tbilisi
 external_url:
 image_path: /uploads/IMG_20190510_115427__noah__SummerSkin2.jpg
 ---
-
-**Training Course in Tbilisi**
-
-**Aim:**
 
 The training course took place in Hualing Hotel in Tbilisi, Georgia. The main target group of the activity was the youth workers, youth leader’s public authority representatives directly working with the youth and in the youth field.
 
