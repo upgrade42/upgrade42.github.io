@@ -1,0 +1,17 @@
+---
+title: Main Actions
+heading: 
+subtitle:
+---
+
+<section class="diagonal alternate">
+	<div class="container">
+	   	<div>
+			<ul class="image-grid">
+				{% for org in site.mainaction limit: 7 %}
+					<li><a href="{{ site.baseurl }}{{ org.url }}"><img src="{% include relative-src.html src=mainaction.image_path %}" /></a></li>
+				{% endfor %}
+			</ul>
+					</div>
+	</div>
+</section>
