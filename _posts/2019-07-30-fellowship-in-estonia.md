@@ -1,0 +1,30 @@
+---
+title: Fellowship in Estonia
+categories:
+  - sales
+  - tips
+author_staff_member: Elena Kudriavtseva
+show_comments: false
+published: true
+---
+![2.jpg]({{site.baseurl}}/_posts/2.jpg)
+
+I received incredible impressions, a lot of useful experience, bright emotions and creative ideas for the Youth Resource Center, thanks to the internship at the Kesklinna youthtekeskus Youth Center from 25/05 to 02/06/2019.
+The visit took place within the program of the international training course for youth workers through fruitful cooperation between NGO Stella and the in partnership with NGO Shokkin Group Estonia and the Tallinn Youth Center Kesklinna noortekeskus, organizations from Georgia, Sweden, Poland, Estonia and Ukraine for Supporting the European Union Program "Erasmus +". The theme of the internship was youth work in youth centers "UPGRAIDE".
+![7.jpg]({{site.baseurl}}/_posts/7.jpg)
+
+Representatives of the Ukrainian and Georgian delegations in Estonia, composed of Elena Kudravtseva, Nelia Hryshchenko, Gogi Chikovani, Kakha Abuladze, took the positive experience of youth workers, mobile youth work, set up partnerships, visited the Department of Youth and Sports and the municipality, had visits to five beautiful Youth Centers Tallinn Kesklinna noortekeskus, Kristiine Youth Worker Erko Sõrmus, North Tallinn Youth Center, Mustamäe Open Noortekeskus (MANK), Lasnamäe Youth Center and Schools of Interest, conducted workshops for young people and visited the real quest room, which attracted attention to the problem. Ami of the modern world - depending on social networks, got acquainted with NGOs located in the Kesklinna youthtekeskus Youth Center, together with the young people attended Italian lessons from volunteer Enrico Galliano and visited the Museum of the Popular Front on Freedom Square.
+![3.jpg]({{site.baseurl}}/_posts/3.jpg)
+
+The internship lasted 9 days and began with a real meeting at the Kesklinna noortekeskus Youth Center on Monday, where Christina Alekseyeva, the director of the Center, told us about plans for the week, the directions of activity and planned activities, followed by a tour of the Youth Center and talked about his work from the inside : team, responsibility of each, financial and legal aspects, opportunities for youth (officially defined in Estonia from 7 to 26 years!), cooperation with the municipality and public organizations and answered to many more of our important questions.
+![4.jpg]({{site.baseurl}}/_posts/4.jpg)
+
+Volunteer NGO Shokkin Group Estonia Olalla presented its organization, its history, projects and made a super-present for our Youth Center, a card game for young people, which in an interesting form will help to get young people skills of communication with the future employer and to successfully get employment.
+Special thanks to Jevgenia Zovmer, a youth worker who introduced us to topical non-learning and working youth programs operating in Estonia and shared their own experiences and experience in youth work.
+We volunteered with Enrico Galliano in Italian because of the interesting games and the cartoon "Little Mermaid", and then talk for a long time at a delicious dinner. During the entire internship, he was also a good guide, and a great friend and a great organizer.
+![5.jpg]({{site.baseurl}}/_posts/5.jpg)
+
+My inspiration, home atmosphere and professionalism impressed me with the visit to the Kristiine Noorsootöötaja Erko Sõrmus Youth Center. The Center hosts: language courses, cultural evenings, meetings with famous people, sporting events, trainings for schoolchildren, tournaments, movie classes, culinary courses. Also, it collects tourist trips, organizes summer camps, cycling courses, teaches to shoot and mount films, write interesting projects and plant flowers. Moreover, you can just come to study or play table football, billiards or Playstation!
+It was interesting to learn about the possibility of Estonian Youth Centers to write interesting projects for young people and receive funding for the necessary equipment and equipment, in particular: creating their own recording studios with musical instruments, gym and dance hall, computer classes, virtual reality rooms, photo studios, walls for rock climbing, table tennis, billiards or football, Playstation.
+I was also impressed by the variety of interesting activities held for youth at the Youth Center: language courses, cultural evenings, meetings with famous people, sporting events, trainings for schoolchildren, tournaments, kinovechory, culinary courses. Also, youth workers organize summer camps, cycling courses, teach them to shoot and mount films, write interesting projects and plant flowers. Moreover, you can simply go to the Youth Center to study or play table football, billiards or Playstation!
+I would like to express my special thanks for the excellent opportunity to join the project "UPGRAIDE" and to raise the professional level of the youth worker and take the positive experience of effective youth work in the countries of Europe.
