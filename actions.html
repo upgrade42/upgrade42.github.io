@@ -1,6 +1,6 @@
 ---
-title: Organizations
-heading: Partners
+title: Actions
+heading: Main Actions
 subtitle:
 ---
 
@@ -8,8 +8,8 @@ subtitle:
 	<div class="container">
 	   	<div>
 			<ul class="image-grid">
-				{% for org in site.orgs limit: 7 %}
-					<li><a href="{{ site.baseurl }}{{ org.url }}"><img src="{% include relative-src.html src=org.image_path %}" /></a></li>
+				{% for action in site.actions limit: 7 %}
+					<li><a href="{{ site.baseurl }}{{ action.url }}"><img src="{% include relative-src.html src=org.image_path %}" /></a></li>
 				{% endfor %}
 			</ul>
 					</div>
