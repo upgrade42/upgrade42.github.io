@@ -12,9 +12,9 @@ links:
     link: /blog/
   - name: Contact
     link: /contact/
-  - title: Support
-    url: /support.html
+  - name: Support
+    link: /support.html
     sub:
       - title: FAQ
-        url: /faq.html
+        link: /faq.html
     
