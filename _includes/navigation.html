@@ -6,6 +6,13 @@
 			{% if link.highlight %}
 				{% assign class = class | append: " highlight" %}
 			{% endif %}
+			
+{% for sub in nav.sub %}
+        <li>
+          <a href="{{ site.baseurl }}{{ sub.href }}">
+            {{ sub.title }}
+          </a>
+        </li>
 
 			{% if link.link == page.url %}
 				{% assign class = class | append: " active" %}
