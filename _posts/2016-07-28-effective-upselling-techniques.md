@@ -1,11 +1,11 @@
 ---
-title: Fellowship in Estonia
+title: 2019-07-30-Fellowship-in-Estonia
 categories:
   - sales
   - tips
-author_staff_member: Elena Kudravtseva
+author_staff_member: Elena Kudriavtseva
 show_comments: false
-published: false
+published: true
 ---
 ![2.jpg]({{site.baseurl}}/_posts/2.jpg)
 
