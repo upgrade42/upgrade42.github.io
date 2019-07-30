@@ -1,6 +1,6 @@
 ---
 name: 'Fellowship in Karlstad, Sweden'
-subtitle:
+subtitle: 'Fellowship in Karlstad, Sweden'
 external_url:
 image_path: /uploads/IMG_20190525_114045__noah__SummerSkin1.jpg
 ---
