@@ -1,5 +1,5 @@
 ---
-name: MTU SHOKKIN GROUP
+name: Training Course in Tbilisi
 subtitle:
 external_url:
 image_path: /shokking group .png
