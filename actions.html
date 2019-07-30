@@ -9,7 +9,7 @@ subtitle:
 	   	<div>
 			<ul class="image-grid">
 				{% for action in site.actions limit: 7 %}
-					<li><a href="{{ site.baseurl }}{{ action.url }}"><img src="{% include relative-src.html src=org.image_path %}" /></a></li>
+					<li><a href="{{ site.baseurl }}{{ action.url }}"><img src="{% include relative-src.html src=action.image_path %}" /></a></li>
 				{% endfor %}
 			</ul>
 					</div>
