@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-{% assign ogranizations = site.pages | where: "path", "ogranizations.html" | first %}
+{% assign actions = site.pages | where: "path", "actions.html" | first %}
 
 <section class="hero diagonal">
 	<div class="container">
-		{% if ogranizations.heading %}
-		<h2><a href="{{ site.baseurl }}/mainactions/">{{ ogranizations.heading }}</a> </h2>
+		{% if actions.heading %}
+		<h2><a href="{{ site.baseurl }}/actions/">{{ actions.heading }}</a> </h2>
 		{% endif %}
 		{% if page.subtitle %}
 			<p class="subtext">{{ page.subtitle }}</p>
