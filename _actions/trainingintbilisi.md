@@ -1,6 +1,6 @@
 ---
-name: Training In Tbilisi
-subtitle: Training In Tbilisi
+name: 'Training In Tbilisi, Georgia'
+subtitle: 'Training In Tbilisi, Georgia'
 external_url:
 image_path: /uploads/IMG_20190510_115427__noah__SummerSkin2.jpg
 ---
