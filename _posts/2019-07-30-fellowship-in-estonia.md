@@ -1,8 +1,7 @@
 ---
 title: Fellowship in Estonia
 categories:
-  - sales
-  - tips
+  - Fellowshop
 author_staff_member: Elena Kudriavtseva
 show_comments: false
 published: true
