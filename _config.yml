@@ -27,6 +27,9 @@ collections:
     output: false
   orgs:
     output: true
+  actions:
+    output: true
+
 
 paginate: 10
 paginate_path: "/blog/:num/"
