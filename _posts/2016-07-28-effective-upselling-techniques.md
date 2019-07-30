@@ -1,5 +1,5 @@
 ---
-title: 2019-07-30-Fellowship-in-Estonia
+title: Fellowship in Estonia
 categories:
   - sales
   - tips
