@@ -14,7 +14,7 @@ links:
     link: /contact/
   - title: Support
     url: /support.html
-    sublinks:
+    sub:
       - title: FAQ
         url: /faq.html
     
