@@ -2,7 +2,7 @@
 title: Fellowship in Estonia
 categories:
   - Fellowshop
-author_staff_member: elena
+author_staff_member:
 show_comments: false
 published: true
 ---
