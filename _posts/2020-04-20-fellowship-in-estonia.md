@@ -1,7 +1,5 @@
 ---
 title: Fellowship in Estonia
-categories:
-author_staff_member:
 show_comments: false
 published: true
 ---
