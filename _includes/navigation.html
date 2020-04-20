@@ -1,3 +1,6 @@
+
+
+
 <nav>
 	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
 	<ul>
@@ -6,13 +9,6 @@
 			{% if link.highlight %}
 				{% assign class = class | append: " highlight" %}
 			{% endif %}
-			
-{% for sub in nav.sub %}
-        <li>
-          <a href="{{ site.baseurl }}{{ sub.link }}">
-            {{ sub.name }}
-          </a>
-        </li>
 
 			{% if link.link == page.url %}
 				{% assign class = class | append: " active" %}
