@@ -41,8 +41,6 @@
 						<ul class="footer-links">
 							<li>
 								<h2>{{ column.title }}</h2>
-													{% endfor %}
-
 							</li>
 							{% for link in column.links %}
 								<li>
@@ -54,6 +52,7 @@
 										{{ link.name }}
 									</a>
 								</li>
+							{% endfor %}
 						</ul>
 					{% endfor %}
 
@@ -70,8 +69,8 @@
 			<div class="legal-line">
 				<p class="container">
 					&copy; {{ site.time | date: '%Y' }} {{ site.data.company.title }}
-				
-		
+					&bull;
+					Template by <a href="https://cloudcannon.com/">CloudCannon</a>
 				</p>
 			</div>
 		</footer>
