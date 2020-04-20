@@ -1,7 +1,9 @@
 ---
+title: Training Course in Tbilisi
+show_comments: false
 published: true
 ---
-Training Course in Tbilisi
+
 
 Aim:
 
