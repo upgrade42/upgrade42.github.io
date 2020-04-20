@@ -1,49 +1,101 @@
 ---
-published: false
+published: true
 ---
-Fellowship in Tallinn
+Training Course in Tbilisi
 
-The Fellowship took place in Kesklinn youth center in Tallinn, Estonia from 25 of May, 2019 until 02 of June, 2019. The Fellowship included 5 youth workers and youth leaders from Ukraine and Georgia who are directly working with the youth. Fellows had opportunity to discover and observe local youth work in Tallinn and they were involved in several activities of the Kesklinn youth center.
+Aim:
 
-The main objectives of the Fellowship were:
+The training course took place in Hualing Hotel in Tbilisi, Georgia. The main target group of the activity was the youth workers, youth leader’s public authority representatives   directly working with the youth and in the youth field.  
 
-To observe the work of Kesklinn youth center and participate in different activities;
+The main objectives of the training course were:
 
-To get to know the tools and framework necessary for operational planning of youth center;
+-        To establish a common understanding of youth work in Europe and partner countries;
 
-To observe cooperation between Estonian youth centers and youth organizations;
+-        To introduce various youth work structures
 
-To practice designing and leading youth participatory activities;
+-        To map realities and challenges of the youth work field and youth center field in partner countries
 
-To gain experience of youth center management;
+-        To introduce and reflect on the European Commission’s competence model on youth workers
 
-To increase capacities of youth centers in partner countries;
+-        To introduce stages and types of youth participation in youth centers
 
-To further develop the abilities of youth workers from partner countries.
+-        To discuss the role of youth workers in the development of youth
 
+-        To increase capacities of youth centers in partner countries
 
-Highlighted topics of the week were: Youth Work in Tallinn and Estonia, Youth Participation, Youth policy.
-![2.jpg]({{site.baseurl}}/_posts/2.jpg)
-
-The Fellowship participants arrived at the venue on 25th of May. Next day of the Fellowship was dedicated to the introduction of the Kesklinn youth center office and youth organizations, who work in the youth center. Participants met with Kesklinn youth center EVS volunteer and youth organization INVOLVED, with whom they had an inspiring and warming up test about conflict managing. Furthermore, on the same day, participants met with Tallinn mobile youth workers and thanks to the good weather they had opportunity to see mobile youth work in practice and take a walk around the city with mobile youth workers and talk with youngsters on the street. 
-![3.jpg]({{site.baseurl}}/_posts/3.jpg)
-
- 
-On 27th of May participants met with the whole Kesklinn youth center team and this day was dedicated to the youth center management and activities. Later there was another meeting with youth organization Shokkin Group, where participants get know about youth projects and different local and international activities. Also this day participants were given the task to prepare a small event or activity for teens in the youth center on Thursday.
-![5.jpg]({{site.baseurl}}/_posts/5.jpg)
-
-The third day was dedicated with cooperation of the youth center and local government, so meeting with Tallinn Centre District Administration were provided for participants. The participants were very interested and asked many questions. Thanks to this meeting with the head of Tallinn Centre District Administration Vladimir Svet, the participants were able to get know much more about the structure of youth work in Tallinn. After lunch, the participants had time to prepare the Thursday event. In the evening the participants were invited to take part in the Italian language class, which was held in the youth center for Tallinn youth.
-![7.jpg]({{site.baseurl}}/_posts/7.jpg)
-
-
-Wednesday 29th of May began with a meeting with the head of the Tallinn Youth Department. During the meeting, youth policy in Tallinn was discussed, as well as a development strategy and documents coordinating youth work in Tallinn. Next 3 days,  participants were  observing successful examples of youth work in the city. They were invited in different youth centers and youth organizations, for example: Lasnamäe private leisure center, Youth club Active, Lasnamäe youth center, Mustamäe youth center, Põhja-Tallinn youth center and Kristiine youth center. Thanks to those meetings, participants took a look on the similarities and differences of youth centers in Tallinn, learned about the cooperation between youth centers in the city and were able to compare youth work in the private and open sectors.
+-        To increase the ability of involved youth workers from partner countries
 
 
 
+Highlighted topics of the week were: Youth Work, Youth Participation and Youth policy.
+![MAIN.jpg]({{site.baseurl}}/_posts/MAIN.jpg)
 
 
-On Thursday evening on 30th of May the participants organized a small handcrafting workshop for youngsters of the youth center, where they made Ukrainian and Georgian souvenirs together. Also, since Kesklinn youth center was taking part in the 38. Tallinn Old Town Days our Fellowship participants were able to attend this amazing event. Within the framework of this festival participants were invited to a youth area of the festival, organized by Kesklinn youth center, as well as to "Popular Front of Estonia" museum and escape room, which was organized by youngsters from Shokkin Group organization in collaboration with the Kesklinn youth center.
+
+The training team arrived at the venue one day before, on 4th of May,, in order to meet for the final discussion of the  agenda and coordination of facilitation. The first day of the training course mainly was dedicated to the introduction of the UPGRADE project and main activities planned on the different stages of the project. Furthermore, on the same day, participants got to know the objectives, activity programme and schedule for the upcoming week. Even more, the first day was dedicated to the process of team building in order to promote the group work and collaboration. 
 
 
 
-We believe that this Fellowship achieved its goals. Both participants and organizers were satisfied and now are planning further cooperation.
+In the evening, participants were introduced with the competence framework of the youth work, which gave them possibility to go through each competence and to brainstorm how to use them for the self- reflection.
+![]({{site.baseurl}}/_posts/IMG_20190509_152528__noah__SummerSkin2.jpg)
+
+
+
+
+
+
+On the second day, the basic principles and concepts of the youth work were presented, which gave possibility to brainstorm about what is youth work  for each participant and how they are connected with it. Whole group agreed on main aspects of the youth work such as:
+
+Building Relationships;
+
+Personal, social and professional development;
+
+Testing values and beliefs;
+
+Participation;
+
+Accepting and understanding other people;
+
+Non formal learning;
+
+
+
+All this encouraged the interesting discussions among the group members as it allowed them to explore what does each aspect means for them/why it is important and how youth work can be useful/productive for the other institutions. 
+
+After, participants had opportunity for personal experience sharing within the Living Library method. It ensured deeper understanding of different types of youth work through storytelling. Each participant had opportunity to put themselves in role of book and reader, which ensured that each participant  shared their own youth work story.
+
+The third day was dedicated to the practical experiences, as participants had possibility to visit the Phonichala Youth Center, which is located in one of the suburbs of Tbilisi. 
+
+
+
+Youth Center has approximately 120 youth aged 14 to 29. Also, centers has couple of children from 
+
+age 6. The main activities organized are: 
+
+Drawing.
+
+English language.
+
+IT and programming classes.
+
+Chess. 
+
+Handmade and craft classes.
+
+Engineering. 
+
+In order to get more information about the youth work development in Georgia, participants were invited for the meeting with the depute of the city mayor and Sport, Culture, Youth and sport department of Tbilisi. The presentation included the practical and visual information about the activities organized for youth by the Tbilisi City Hall. 
+
+
+
+The following days, were dedicated more on brainstorming on core principles of the youth work. Knowing about the core principles opened the discussions and participants brainstormed and came up with the cases from their own communities how the core principles are implemented in their realities. This gave possibility to draw the youth work implementation realities in each country, which made possible at first to visualize it and then compare the various realities. Even more, participants could choose principles they are lacking/need in order to improve the quality of the youth work. 
+![IMG_20190509_152528__noah__SummerSkin2.jpg]({{site.baseurl}}/_posts/IMG_20190509_152528__noah__SummerSkin2.jpg)
+
+
+
+
+
+The second part of the training course focused more on planning programmes for the next phase of the project: Fellowships to  Sweden, Estonia and Poland  and what type of practical information participants would like to go through within the next training course in July, in Poland.  
+![LAST.jpg]({{site.baseurl}}/_posts/LAST.jpg)
+
+
