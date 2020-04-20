@@ -4,7 +4,7 @@ show_comments: false
 published: true
 ---
 
-![](/_posts/62235587_320776495464462_3352513216260341760_n.jpg){: width="960" height="720"}
+![](/_posts/62235587_320776495464462_3352513216260341760_n.jpg){: width="960" height="720"}![](/uploads/programe-karlstad-page-1.jpg){: width="1754" height="1240"}
 
 The third job shadowing took place in Poland from 4 of June until 12 of June, 2019 and included 5 fellows from Ukraine and Georgia.
 
@@ -53,8 +53,6 @@ The main objectives of the shadowing were:
 * To increase capacities of youth centres in partner countries
 
 * To further develop the abilities of youth workers from partner countries
-
-![62235587_320776495464462_3352513216260341760_n.jpg]({{site.baseurl}}/_posts/62235587_320776495464462_3352513216260341760_n.jpg)
 
 The first day was dedicated were spent in Chorz&oacute;w and fellows visited various youth clubs and youth centres , furthermore they have met the youth of \#Wolka and Chorzowskie Cultural Center. ![65489695_201869497415257_4122843049933930496_n.jpg]({{site.baseurl}}/_posts/65489695_201869497415257_4122843049933930496_n.jpg)
 
