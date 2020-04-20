@@ -4,6 +4,8 @@ show_comments: false
 published: true
 ---
 
+![](/uploads/img-20190510-114200--noah--summerskin2.jpg){: width="960" height="720"}
+
 Aim:
 
 The training course took place in Hualing Hotel in Tbilisi, Georgia. The main target group of the activity was the youth workers, youth leader’s public authority representatives directly working with the youth and in the youth field.
