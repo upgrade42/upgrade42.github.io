@@ -1,9 +1,9 @@
 ---
+title: JOB SHADOWING  in Sweden
+show_comments: false
 published: true
 ---
-Sunny Karlstad 
 
-JOB SHADOWING 
 
 The third job shadowing took place in Poland from 4 of June until 12 of June, 2019 and included 5 fellows from Ukraine and Georgia. 
 
