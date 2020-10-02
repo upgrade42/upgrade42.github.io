@@ -4,11 +4,9 @@ show_comments: false
 published: true
 ---
 
-**“UPGRADE” inZebrzydowice** \*\*-Training Course in Poland \*\*
+![](/uploads/img-2462.JPG){: width="1152" height="864"}**“UPGRADE” inZebrzydowice** \*\*-Training Course in Poland \*\*
 
-&nbsp;
-
-The training course took place in Zebrzydowice, Poland from 26 of July until 2 of August and included 26 participants from Sweden, Estonia, Poland, Ukraine and Georgia. The main aim of the training course was ![](/uploads/img-2462.JPG){: width="1152" height="864"}to develop youth workers understanding and knowledge on various non-formal educational methods and on ways of using them.
+The training course took place in Zebrzydowice, Poland from 26 of July until 2 of August and included 26 participants from Sweden, Estonia, Poland, Ukraine and Georgia. The main aim of the training course was to develop youth workers understanding and knowledge on various non-formal educational methods and on ways of using them.
 
 The main objectives of the training course were:
 
