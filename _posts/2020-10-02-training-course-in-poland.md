@@ -4,13 +4,11 @@ show_comments: false
 published: true
 ---
 
-**![](/uploads/67467658-2260582707392452-3185486709827567616-n.jpg){: width="720" height="960"}“UPGRADE” in****Zebrzydowice** **-Training Course in Poland **
+**“UPGRADE” inZebrzydowice** \*\*-Training Course in Poland \*\*
 
 &nbsp;
 
-The training course took place in Zebrzydowice, Poland from 26 of July until 2 of August and included 26 participants from Sweden, Estonia, Poland, Ukraine and Georgia. The main aim of the training course was to develop youth workers understanding and knowledge on various non-formal educational methods and on ways of using them.
-
-![](/uploads/img-2462.JPG){: width="1152" height="864"}
+The training course took place in Zebrzydowice, Poland from 26 of July until 2 of August and included 26 participants from Sweden, Estonia, Poland, Ukraine and Georgia. The main aim of the training course was ![](/uploads/img-2462.JPG){: width="1152" height="864"}to develop youth workers understanding and knowledge on various non-formal educational methods and on ways of using them.
 
 The main objectives of the training course were:
 
@@ -34,7 +32,7 @@ The main objectives of the training course were:
 
 The first part of the training course was dedicated more on theory and input from the trainers’ side. Trainers presented Youth participation principles, different leadership styles and Bloom’s Taxonomy, which is used to classify educational learning objectives: Creating, Remembering, Understanding, Applying, Analyzing and Evaluating. Even more, participants were introduced with the Facilitation Toolbox, including non-formal learning methods in order to create an online collection of sessions for youth centres.
 
-&nbsp;
+**![](/uploads/67467658-2260582707392452-3185486709827567616-n.jpg){: width="720" height="960"}**
 
 The second part of the training course allowed participants to test their skills by participating in Facilitarium, which divided participants in different groups based on their interest. Based on this following six groups were formed:
 
