@@ -4,9 +4,7 @@ show_comments: false
 published: true
 ---
 
-**“UPGRADE” in****Rustavi**
-
-![](/uploads/dsc05131.jpg){: srcset="/uploads/dsc05131.jpg 960w, /uploads/dsc05131@2x.jpg 1920w" width="960" height="720"}
+![](/uploads/dsc05131.jpg){: srcset="/uploads/dsc05131.jpg 960w, /uploads/dsc05131@2x.jpg 1920w" width="960" height="720"}**“UPGRADE” inRustavi**
 
 The first Youth exchange within the project UPGRADE took place in Rustavi, Georgia from 1 until 10th of October, 2019. Rustavi hosted 37 youth from Sweden, Poland, Estonia, Ukraine and Georgia. The main aim of the activity &nbsp;was to raise awareness of youth about non-formal education, its methods and to empower them, later to organize the non-formal educational activities for their peers.
 
