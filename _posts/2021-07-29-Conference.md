@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![cover-changed.png]({{site.baseurl}}/uploads/cover-changed.png)
 
