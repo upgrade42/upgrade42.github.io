@@ -2,6 +2,8 @@
 published: true
 ---
 ## Conference
+![cover-changed.png]({{site.baseurl}}/_posts/cover-changed.png)
+
 Within the framework of the EU grant program, the Tbilisi Youth Centers Union, together with Georgian and international partner organizations, is implementing the long-term project &quot;UPGRADE&quot;, which aims to structurally change the youth centers, share international practice and introduce participatory youth work in Tbilisi youth centers.
 
 Within the framework of the project, the first training course was held in May 2019 in Tbilisi, followed by study visits to Estonia, Poland and Sweden. After that, local thematic meetings were held, as well as two youth exchanges in Georgia and one seminar. The final event of the long-term project is a conference to be held from 2-4 August 2021 in Saguramo, Hotel-Sevsamora.
