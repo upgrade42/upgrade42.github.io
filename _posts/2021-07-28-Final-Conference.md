@@ -3,7 +3,8 @@ published: true
 ---
 ## Conference
 
-![cover-changed.jpg]({{site.baseurl}}/_posts/cover-changed.jpg)
+![cover-changed.png]({{site.baseurl}}/uploads/cover-changed.png)
+
 
 Within the framework of the EU grant program, the Tbilisi Youth Centers Union, together with Georgian and international partner organizations, is implementing the long-term project &quot;UPGRADE&quot;, which aims to structurally change the youth centers, share international practice and introduce participatory youth work in Tbilisi youth centers.
 
